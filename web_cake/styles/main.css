@@ -1,0 +1,18 @@
+.create-box {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    min-height: 150px;
+}
+.delete-box {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    min-height: 150px;
+}
+.update-box {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    min-height: 150px;
+}
